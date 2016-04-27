@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#containerSlider{
+height:450px;
+width:4400px;
+}
+#containerSlider img{
+float:left;
+}
+#containerSlider2{
+height:450px;
+width:4400px;
+}
+#containerSlider2 img{
+float:left;
+}
+
